@@ -1,4 +1,4 @@
-# Spotify Plalist Classification
+# Spotify Playlist Classification
 
 Source code and report for CS 229: Machine Learning final project.
 
